@@ -91,7 +91,7 @@
 > 不会的话参考原作者的issue https://github.com/zhou-xiaojun/jd_mask/issues/22
 
 (2)`sku_id`,`DEFAULT_USER_AGENT` 
-> `sku_id`已经按照茅台的填好 
+> `sku_id`已经按照茅台的填好。
 > `cookies_string` 现在已经不需要填写了
 > `DEFAULT_USER_AGENT` 可以用默认的。谷歌浏览器也可以浏览器地址栏中输入about:version 查看`USER_AGENT`替换
 
