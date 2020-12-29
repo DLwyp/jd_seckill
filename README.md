@@ -93,7 +93,7 @@
 (2)`sku_id`,`DEFAULT_USER_AGENT`  
 > `cookies_string` 现在已经不需要填写了
 > `DEFAULT_USER_AGENT` 可以用默认的。谷歌浏览器也可以浏览器地址栏中输入about:version 查看`USER_AGENT`以替换
-> sku_id我已经按照茅台的填好 
+> `sku_id`已经按照茅台的填好 
 
 (3)配置一下时间
 > 现在不强制要求同步最新时间了，程序会自动同步京东时间
